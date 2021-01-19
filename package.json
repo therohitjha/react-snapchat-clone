@@ -2,7 +2,7 @@
   "name": "react-snapchat-clone",
   "version": "1.0.0",
   "homepage": "https://therohitjha.github.io/react-snapchat-clone",
-  "author":  "Rohit Jha",
+  "author": "Rohit Jha",
   "dependencies": {
     "@formatjs/intl-relativetimeformat": "^5.2.7",
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
